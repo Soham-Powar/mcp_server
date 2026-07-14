@@ -1,4 +1,4 @@
-# UPI Analytics — Senior Engineer Onboarding & Architecture Guide
+# Transaction Analytics — Senior Engineer Onboarding & Architecture Guide
 
 > Audience: a senior engineer who has never seen this project. This document
 > explains **what** every part does and **why** it was built that way. It is

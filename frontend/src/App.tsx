@@ -185,7 +185,7 @@ export default function App() {
           >
             ☰
           </button>
-          <h1 className="text-sm font-medium text-neutral-200">UPI Analytics</h1>
+          <h1 className="text-sm font-medium text-neutral-200">Transaction Analytics</h1>
           <div className="ml-auto">
             <ModelSelector
               models={models}

@@ -1,4 +1,4 @@
--- UPI Analytics — SQLite schema
+-- Transaction Analytics — SQLite schema
 -- Single source of truth for the transactions table.
 
 CREATE TABLE IF NOT EXISTS transactions (

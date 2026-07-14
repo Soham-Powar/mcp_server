@@ -77,7 +77,7 @@ export default function Sidebar({
         </div>
 
         <div className="p-3 text-xs text-neutral-500 border-t border-white/10">
-          UPI Analytics · local-first
+          Transaction Analytics · local-first
         </div>
       </aside>
     </>
